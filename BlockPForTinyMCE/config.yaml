@@ -1,0 +1,8 @@
+id: BlockPForTinyMCE
+name: BlockPForTinyMCE
+version: 1.00
+
+editors:
+  tinymce:
+    config:
+      forced_root_block: ''
